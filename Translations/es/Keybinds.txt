@@ -36,3 +36,4 @@ Desbloquear Todo
 Apagón
 Bloquear
 Ping
+Escáner de Brechas
